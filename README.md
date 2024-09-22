@@ -1,0 +1,2 @@
+# The-Design-of-a-Remote-Controlled-Automation-System-Using-Mobile-Devices
+This project focuses on developing an automated system for the agricultural sector, enabling remote monitoring and control of environmental factors in greenhouse settings via mobile devices. By utilizing sensors and a Siemens S7-1200 PLC, the system aims to optimize plant growth and enhance efficiency in agricultural practices
